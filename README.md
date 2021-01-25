@@ -1,5 +1,7 @@
-# typescript-fundaments
+# typescript-fundamentals
 Typescript fundamentals from Frontend masters
+
+TypeScript를 공부하면서 이것 저것 메모하는 곳
 
 ## contents
 - [Introduction](./introduction/README.md)
